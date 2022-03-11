@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: stéven
+Class-Path: dependency-jars/log4j-1.2.17.jar
+Created-By: Apache Maven
+Main-Class: com.iup.tp.twitup.TwitupLauncher
